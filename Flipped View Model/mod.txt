@@ -5,6 +5,7 @@
 	"contact" : "https://github.com/daerich"
 	"blt_version" : 2,
 	"color" : "255 0 0"
+	"image" : "cover.png"
 	"hooks" : [
 		{
 			"hook_id" : "lib/managers/menumanager",
