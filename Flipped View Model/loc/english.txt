@@ -1,0 +1,10 @@
+{
+	"flipped_view_menu_title" : "Flipped View Model",
+	"flipped_view_menu_desc" : "Options for Sentry Contours",
+	
+	"toggle_view_title" : "Use Left Hand"
+	"toggle_view_desc" : "Toggle flipped viewmodel."
+	
+	"variable_title" : "Set Custom Left-ness"
+	"variable_desc" : "Fine adjustment. Approx Left = -16.5; Approx Center = -8.25; Default Right = 0"
+}

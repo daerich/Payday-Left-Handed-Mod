@@ -1,0 +1,29 @@
+{
+    "menu_id" : "flipped_view_menu_id",
+    "parent_menu_id" : "blt_options",
+    "title" : "flipped_view_menu_title",
+    "description" : "flipped_view_menu_desc",
+	"back_callback" : "flipped_view_save",
+    "items" : [
+		{
+			"type" : "toggle",
+			"id" : "toggle_view_id",
+			"title" : "toggle_view_title",
+			"description" : "toggle_view_desc",
+			"callback" : "toggle_view_clbk",
+			"value" : "toggle_view"
+		},
+		{
+			"type" : "slider",
+			"id" : "variable_id",
+			"title" : "variable_title",
+			"description" : "variable_desc",
+			"callback" : "variable_clbk",
+			"value" : "variable",
+			"default_value" : -15,
+			"max" : 0,
+			"min" : -25,
+			"step" : 0.25
+		}
+	]
+}
